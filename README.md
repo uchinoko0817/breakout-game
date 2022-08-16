@@ -1,16 +1,5 @@
 # breakout_game
+Prototype of breakout game using flame_forge2d library.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![flutter_breakout](https://user-images.githubusercontent.com/65853814/184807016-3a3fb783-8e4b-4a78-a89d-f56febc8287b.gif)
